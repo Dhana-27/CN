@@ -1,0 +1,21 @@
+1. Create a Simulator object. 
+
+2. Set routing as dynamic. 
+
+3. Open the trace and nam trace files. 
+
+4. Define the finish procedure. 
+
+5. Create nodes and the links between them. 
+
+6. Create the agents and attach them to the nodes 
+
+7. Create the applications and attach them to the udp agent. 
+
+8. Connect UDP and null. 
+
+9. At 1 sec the link between node 1 and 2 is broken. 
+
+10. At 2 sec the link is up again. 
+
+11. Run the simulation.
